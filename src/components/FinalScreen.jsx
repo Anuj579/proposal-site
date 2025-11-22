@@ -12,18 +12,21 @@ export default function FinalScreen() {
   const [showOverlay, setShowOverlay] = useState(false)
   const messageRef = useRef(null)
 
-  const proposalMessage = `From the moment you came into my life, everything started to change.  
-You brought colors to my ordinary days, warmth to my silence, and a happiness I didn’t even know I was missing.  
+  const proposalMessage = const proposalMessage = `
+So my dear Princess aur mera pyaara bachaa, thank you for coming into my world.
+Tumne mujhe sambhala aur mera saath diya, zarurat hone par mere saath rahi, even naa hone par bhi raat bhar jaga jaga kar saath rahi…
 
-Every sunrise feels brighter because of you.  
-Every dream feels possible because you inspire me.  
-Every challenge feels easier because I imagine you by my side.  
+So now it's my turn, aur mai chahta hoon ki ab tumhara dhyaan mai rakhu…
+Aur tumhe bohot saara pyaar karu — kisses, hugs, cuddlings, hand holdings, aur bohot saari baatein karu.
+Mai chahta hoon ki tumhari khushiyon ka dhyaan rakhu aur tumhare face se kabhi wo smile na jaane du.
+Bas tumhe apne paas rakhu, apne bahut close rakhu… tumhe kabhi khud se door na jaane du…
 
-You are not just my friend, you’re the most special part of my life.  
-You make me smile, you make my heart race, and you make me want to be a better version of myself.  
+So my dear princess, love, care, support, aur aapki saari zimmedaariya abse meri.
+I know I'm not perfect, but I will try my best to give you all my love and efforts and keep a smile on your face always.
 
-I don’t know what the future holds, but I know one thing for sure.
-I want that future with you.`
+I don’t know what the future holds, but I know one thing for sure —
+I want that future with you… and I love you so much, mera bachaaa.
+`;
 
   useEffect(() => {
     if (cardOpen && !typingComplete) {

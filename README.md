@@ -1,6 +1,6 @@
 # ❤️ Proposal Website
 
-Make your proposal unforgettable with this beautifully designed Proposal Website.
+Make your proposal unforgettable with this beautifully designed Proposal Website.Make your proposal unforgettable with this beautifully designed Proposal Website. With soft animations, heartfelt messages, and an elegant UI, this site turns a simple “I love you” into a magical and memorable experience. ✨
 With soft animations, heartfelt messages, and an elegant UI, this site turns a simple “I love you” into a magical and memorable experience. ✨
 
 > ⚠️ This is a **free version**, so some features like background music, some animations are not included. Premium version includes all features.

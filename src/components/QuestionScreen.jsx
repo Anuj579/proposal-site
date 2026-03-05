@@ -8,7 +8,7 @@ export default function QuestionScreen({ question, onYes, isFirst }) {
 
     const handleNo = async () => {
         if (isFirst) {
-            // First question - "Do you like surprises?"
+            // First question - "Hey My Love, Are U Ready For Small Surprise ?"
             await Swal.fire({
                 title: "But this one is special!",
                 text: "You need to open it... please?",
@@ -21,9 +21,9 @@ export default function QuestionScreen({ question, onYes, isFirst }) {
                 showConfirmButton: false,
             })
         } else {
-            // Second question - "Do you like me?"
+            // Second question - "Do you love me Meili?"
             await Swal.fire({
-                title: "Please say yes!",
+                title: "Please say yes! U Mean World To Me",
                 text: "I really hope you do...",
                 imageUrl: "/gif/tears.gif",
                 imageAlt: "Please gif",
